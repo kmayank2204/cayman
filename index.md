@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Created a dummy project called fraud detection as part of the course material in Upgrad.
 
-<center><img src="assets/img/fraud_detection.jpg"/></center>
+<center><img src="assets/fraud_detection.jpg"/></center>
 
 ## Header 2
 
